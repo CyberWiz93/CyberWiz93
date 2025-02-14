@@ -7,4 +7,13 @@ I am currently a student at Northampton Community College. Studying Information 
 
 ## Objective
 
+- Document my process on setting up various devices
+- Experment with different services
+- Attempt to find vulnerabilities
 
+
+### Services as of now
+
+- Set up a ubuntu Server on a Rasberry pi 3
+- Set up a SMB server (samba)
+- OpenVPN server on ubuntu Server
