@@ -10,6 +10,7 @@ I am currently a student at Northampton Community College. Studying Information 
 - Document my process on setting up various devices
 - Experment with different services
 - Attempt to find vulnerabilities
+- Some coding projects
 
 
 ### Services as of now
